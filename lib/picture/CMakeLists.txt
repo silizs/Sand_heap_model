@@ -1,0 +1,1 @@
+add_library(picture picture.cpp picture.h)
